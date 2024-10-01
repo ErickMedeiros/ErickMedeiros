@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickmedeiros" alt="erickmedeiros" /></a> </p>
 
-- 🌱 Atualmente sou Arquiteto Azure, estudo **Cloud, Segurança e Devops**
+- 🌱 Atualmente sou Arquiteto Azure e estudo sobre **Cloud, Segurança e Devops**;
 - 👨‍💻 Iniciando o estudo com outros cloud providers como AWS, GCP e outros;
 - 👨‍💻 Estudante de devops, adquirindo conhecimentos avançados em Terraform, GitAction, GitHub e AzureDevops;
 - 📝 Docker, Kubernates e outras fazem parte do pacote de conhecimentos;
