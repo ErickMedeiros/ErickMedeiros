@@ -5,11 +5,12 @@
 
 - 🌱 Atualmente sou Arquiteto Azure e estudo sobre **Cloud, Segurança e Devops**;
 - 👨‍💻 Iniciando o estudo com outros cloud providers como AWS, GCP e outros;
-- 👨‍💻 Estudante de devops, adquirindo conhecimentos avançados em Terraform, GitAction, GitHub e AzureDevops;
-- 📝 Docker, Kubernates e outras fazem parte do pacote de conhecimentos;
+- 👨‍💻 Como devops, estou adquirindo conhecimentos avançados em Terraform, GitAction, GitHub e AzureDevops;
+- 📝 Alem Docker, Kubernates e outras tecnologias deste de código;
 - 📫 Como entrar em contato comigo **erickb_m@hotmail.com**
 
-- ⚡ Curiosidade **Sou o torcedor rubro-negro do Sport Recife.**
+- ⚡ Curiosidade 01 **Sou o torcedor rubro-negro do Sport Recife.**
+- ⚡ Curiosidade 02 **Sou uma pessoao movida a desafios**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
