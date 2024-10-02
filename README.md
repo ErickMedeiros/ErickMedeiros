@@ -10,7 +10,7 @@
 - 📫 Como entrar em contato comigo **erickb_m@hotmail.com**
 
 - ⚡ Curiosidade 01 **Sou o torcedor rubro-negro do Sport Recife.**
-- ⚡ Curiosidade 02 **Sou uma pessoao movida a desafios**
+- ⚡ Curiosidade 02 **Sou uma pessoa movida a desafios**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
