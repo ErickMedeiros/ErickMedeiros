@@ -7,7 +7,7 @@
 - 👨‍💻 Iniciando o estudo com outros cloud providers como AWS, GCP e outros;
 - 👨‍💻 Como devops, estou adquirindo conhecimentos avançados em **Terraform, GitAction, GitHub e AzureDevops**;
 - 📝 Aperfeiçoando estes conhecimentos também com **Docker, Kubernates, Ansible**, etc;
-- 📫 Como entrar em contato comigo **erickb_m@hotmail.com**
+- 📫 Como entrar em contato comigo **erickb_m@yahoo.com**
 
 - ⚡ Curiosidade 01 **Sou o torcedor rubro-negro do Sport Recife.**
 - ⚡ Curiosidade 02 **Sou uma pessoa movida a desafios**
