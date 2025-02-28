@@ -8,7 +8,7 @@
 - 👨‍💻 Como devops, estou adquirindo conhecimentos avançados em **Terraform, GitAction, GitHub e AzureDevops**;
 - 📝 Aperfeiçoando estes conhecimentos também com **Docker, Kubernates, Ansible**, etc;
 - 📫 Como entrar em contato comigo **erickb_m@yahoo.com**
-- 👨‍💻 Meu blog técnico - <a href="https:erickbmedeiros.com.br">
+- 👨‍💻 Meu blog técnico - erickbmedeiros.com.br <a href="https:erickbmedeiros.com.br">
 - ⚡ Curiosidade 01 **Sou o torcedor rubro-negro do Sport Recife.**
 - ⚡ Curiosidade 02 **Sou uma pessoa movida a desafios**
 
