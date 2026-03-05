@@ -2,8 +2,6 @@
 <h3 align="center">Microsoft MVP</h3>
 <h3 align="center">Atualmente trabalho como Technical Account Manager e sou Analista de Infraestrutura Sênior no Brasil - Foco em Azure</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickmedeiros" alt="erickmedeiros" /></a> </p>
-
 - 🏆 **Microsoft MVP em Azure**;
 - 🌱 Atualmente sou Arquiteto Azure e estudo sobre **Cloud, Segurança e Devops**;
 - 👨‍💻 Iniciando o estudo com outros cloud providers como AWS, GCP e outros;
